@@ -1,6 +1,5 @@
 public class GitClass {
-    //leaving command
-    //messages
-    //message
+    //write something here
+    //hello
 
 }
